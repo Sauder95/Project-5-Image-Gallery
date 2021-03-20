@@ -1,0 +1,10 @@
+#search {
+    margin: auto;
+    padding: 15px;
+    min-width: 400px;
+    border-radius: 15px;
+    &:focus {
+        background-color: burlywood;
+        outline: none;
+    }
+}
